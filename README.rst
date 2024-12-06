@@ -1,8 +1,8 @@
 Python Deep Outlier/Anomaly Detection (DeepOD)
 ==================================================
 
-.. image:: https://github.com/xuhongzuo/DeepOD/actions/workflows/testing.yml/badge.svg
-   :target: https://github.com/xuhongzuo/DeepOD/actions/workflows/testing.yml
+.. image:: https://github.com/python-devops-sre/DeepOD/actions/workflows/testing.yml/badge.svg
+   :target: https://github.com/python-devops-sre/DeepOD/actions/workflows/testing.yml
    :alt: testing2
 
 .. image:: https://readthedocs.org/projects/deepod/badge/?version=latest
@@ -10,11 +10,11 @@ Python Deep Outlier/Anomaly Detection (DeepOD)
     :alt: Documentation Status
 
 .. image:: https://app.codacy.com/project/badge/Grade/2c587126aac2441abb917c032189fbe8
-    :target: https://app.codacy.com/gh/xuhongzuo/DeepOD/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
+    :target: https://app.codacy.com/gh/python-devops-sre/DeepOD/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
     :alt: codacy
 
 .. image:: https://coveralls.io/repos/github/xuhongzuo/DeepOD/badge.svg?branch=main
-    :target: https://coveralls.io/github/xuhongzuo/DeepOD?branch=main
+    :target: https://coveralls.io/github/python-devops-sre/DeepOD?branch=master
     :alt: coveralls
 
 .. image:: https://static.pepy.tech/personalized-badge/deepod?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads
